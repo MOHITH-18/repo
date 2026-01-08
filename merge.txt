@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-content to append
-=======
-Totally different content to merge
->>>>>>> new_branch_2_merge_later
